@@ -1,0 +1,102 @@
+[
+    {
+        "question": "1. What is JavaScript mainly used for?",
+        "options": ["a. Styling", "b. Structure", "c. Interactivity", "d. Database"],
+        "correct": 2
+    },
+    {
+        "question": "2. Which company developed JavaScript?",
+        "options": ["a. Microsoft", "b. Netscape", "c. Google", "d. Apple"],
+        "correct": 1
+    },
+    {
+        "question": "3. Which keyword is used to declare a variable?",
+        "options": ["a. var", "b. int", "c. string", "d. define"],
+        "correct": 0
+    },
+    {
+        "question": "4. Which symbol is used for comments in JS?",
+        "options": ["a. //", "b. ##", "c. <!-- -->", "d. **"],
+        "correct": 0
+    },
+    {
+        "question": "5. What does DOM stand for?",
+        "options": ["a. Document Object Model", "b. Data Object Method", "c. Digital Order Model", "d. Desktop Object Management"],
+        "correct": 0
+    },
+    {
+        "question": "6. Which method selects element by ID?",
+        "options": ["a. getElementByClass", "b. querySelectorAll", "c. getElementById", "d. selectId"],
+        "correct": 2
+    },
+    {
+        "question": "7. Which loop runs at least once?",
+        "options": ["a. for", "b. while", "c. do...while", "d. loop"],
+        "correct": 2
+    },
+    {
+        "question": "8. Which operator is used for strict equality?",
+        "options": ["a. ==", "b. =", "c. ===", "d. !="],
+        "correct": 2
+    },
+    {
+        "question": "9. What is the output type of typeof 'Hello'?",
+        "options": ["a. string", "b. text", "c. word", "d. char"],
+        "correct": 0
+    },
+    {
+        "question": "10. Which function converts JSON to object?",
+        "options": ["a. JSON.stringify", "b. JSON.parse", "c. JSON.convert", "d. JSON.object"],
+        "correct": 1
+    },
+    {
+        "question": "11. Which keyword is used for function?",
+        "options": ["a. func", "b. function", "c. def", "d. method"],
+        "correct": 1
+    },
+    {
+        "question": "12. What is NaN?",
+        "options": ["a. Not a Name", "b. Not a Number", "c. Null and None", "d. New and Next"],
+        "correct": 1
+    },
+    {
+        "question": "13. Which method adds element to array end?",
+        "options": ["a. push()", "b. pop()", "c. shift()", "d. unshift()"],
+        "correct": 0
+    },
+    {
+        "question": "14. Which method removes last element?",
+        "options": ["a. push()", "b. pop()", "c. shift()", "d. remove()"],
+        "correct": 1
+    },
+    {
+        "question": "15. Which event occurs on button click?",
+        "options": ["a. onhover", "b. onclick", "c. onchange", "d. onload"],
+        "correct": 1
+    },
+    {
+        "question": "16. Which object represents current date?",
+        "options": ["a. Time", "b. Clock", "c. Date", "d. Now"],
+        "correct": 2
+    },
+    {
+        "question": "17. Which function delays execution?",
+        "options": ["a. setTimeout", "b. setInterval", "c. delay()", "d. wait()"],
+        "correct": 0
+    },
+    {
+        "question": "18. Which keyword stops a loop?",
+        "options": ["a. stop", "b. exit", "c. break", "d. end"],
+        "correct": 2
+    },
+    {
+        "question": "19. Which keyword skips one loop iteration?",
+        "options": ["a. skip", "b. continue", "c. next", "d. pass"],
+        "correct": 1
+    },
+    {
+        "question": "20. Which method selects first matching element?",
+        "options": ["a. querySelector", "b. getElements", "c. find()", "d. selectOne"],
+        "correct": 0
+    }
+]
